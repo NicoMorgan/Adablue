@@ -4,15 +4,8 @@
         "url_png_logo": "https://raw.githubusercontent.com/NicoMorgan/Adablue/main/Screenshot%202021-02-07%20at%2002.00.26.png",
         "location": "Dublin",
         "social": {
-            "instagram_handle": "adablue",
-            "discord_handle": "adablue",
-            "reddit_handle": "adablue",
             "twitter_handle": "https://twitter.com/Ada_blu_",
-            "facebook_handle": "adablue",
-            "youtube_handle": "adablue",
-            "twitch_handle": "adablue",
-            "telegram_handle": "adablue",
-            "github_handle": "adablue"
+            "youtube_handle": "adablue"
         },
         "company": {
             "name": "ADABLUE"
@@ -21,9 +14,7 @@
             "me": "A Vision, A Reality, The Future",
             "server": "2x Ubuntu 20.04 LTS servers running in Amazon AWS",
             "company": "Amazon"
-            },
-    "rss": "http://feeds.feedburner.com/antibiz?format=xml"
-    },
+        },
     "my-pool-ids": {
         "0": "pool1hy28g3gywvf25yu6xvfepwa8zhhtkk83kekfdenqujycvqjc96g",
         "1": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986"
