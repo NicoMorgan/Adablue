@@ -1,25 +1,36 @@
 {
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/NicoMorgan/Adablue/main/Screenshot%202021-02-07%20at%2002.00.26.png",
-        "url_png_logo": "https://raw.githubusercontent.com/NicoMorgan/Adablue/main/Screenshot%202021-02-07%20at%2002.00.26.png",
-        "location": "Dublin",
+        "location": "Dublin, Ireland",
         "social": {
-            "twitter_handle": "https://twitter.com/Ada_blu_",
-            "youtube_handle": "adablue"
-        },
-        "company": {
-            "name": "ADABLUE"
+            "twitter_handle": "Ada_blu_",
+            "youtube_handle": ""
         },
         "about": {
-            "me": "A Vision, A Reality, The Future",
-            "server": "2x Ubuntu 20.04 LTS servers running in Amazon AWS",
-            "company": "Amazon"
+            "me": "A Single Pool Operator - A Vision, A Reality, The Future",
+            "server": "Cloud based server on AWS consisting of 1 Block Producer and 2 Relay Nodes"
         },
     "my-pool-ids": {
-        "0": "pool1hy28g3gywvf25yu6xvfepwa8zhhtkk83kekfdenqujycvqjc96g",
-        "1": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986"
+        "0": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
+        "1": ""
     },
-    
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
     }
-}
 }
